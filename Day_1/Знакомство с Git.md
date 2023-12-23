@@ -280,17 +280,29 @@ test@DESKTOP:~/Desktop/Piscine-C-Ecole-42$
 ## Основные команды, которые нужно знать, работая с Git:
 
 git init
+
 git status
+
 git add
+
 git commit
+
 git log
+
 git config
+
 git branch
+
 git checkout
+
 git clone
+
 git set-url
+
 git push
+
 ssh-keygen
+
 
 ## Используемые материалы
 
