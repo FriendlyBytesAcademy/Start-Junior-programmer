@@ -178,7 +178,7 @@ test@DESKTOP:~/Desktop/test$
 
 
 На картинке показано, как происходит клонирование репозитория на локальное устройство и отправка изменений на сервер 
- ![](https://github.com/Stanislavmg/base-programmer/raw/stanislav/Day_1/img/git_clone.jpg)
+ ![](/Day_1/img/git_clone.jpg)
 
 ## Клонирование репозитория
 
